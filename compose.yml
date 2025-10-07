@@ -9,7 +9,7 @@ services:
     environment:
       DB_USER: postgres
       DB_PWD: postgres
-      DB_HOST: database
+      DB_HOST: localhost
       DB_PORT: 5432
       ## NAO PRECISA NO BOOTCAMP DAQUI PRA BAIXO ##
       # DB_SECRET_NAME: 
