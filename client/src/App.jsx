@@ -179,7 +179,7 @@ function AppContent() {
         />
       ) : (
         <div className="empty-state">
-          <h3>Nenhuma tarefa por aqui 📝</h3>
+          <h3>Nenhuma tarefa por aqui nesse momento📝</h3>
           <p>Adicione sua primeira tarefa usando o formulário acima!</p>
         </div>
       )}
